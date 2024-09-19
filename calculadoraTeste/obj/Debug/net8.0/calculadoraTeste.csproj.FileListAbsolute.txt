@@ -1,0 +1,11 @@
+C:\Users\SENAI3EM\source\repos\calculadoraTeste\calculadoraTeste\bin\Debug\net8.0\calculadoraTeste.deps.json
+C:\Users\SENAI3EM\source\repos\calculadoraTeste\calculadoraTeste\bin\Debug\net8.0\calculadoraTeste.dll
+C:\Users\SENAI3EM\source\repos\calculadoraTeste\calculadoraTeste\bin\Debug\net8.0\calculadoraTeste.pdb
+C:\Users\SENAI3EM\source\repos\calculadoraTeste\calculadoraTeste\obj\Debug\net8.0\calculadoraTeste.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SENAI3EM\source\repos\calculadoraTeste\calculadoraTeste\obj\Debug\net8.0\calculadoraTeste.AssemblyInfoInputs.cache
+C:\Users\SENAI3EM\source\repos\calculadoraTeste\calculadoraTeste\obj\Debug\net8.0\calculadoraTeste.AssemblyInfo.cs
+C:\Users\SENAI3EM\source\repos\calculadoraTeste\calculadoraTeste\obj\Debug\net8.0\calculadoraTeste.csproj.CoreCompileInputs.cache
+C:\Users\SENAI3EM\source\repos\calculadoraTeste\calculadoraTeste\obj\Debug\net8.0\calculadoraTeste.dll
+C:\Users\SENAI3EM\source\repos\calculadoraTeste\calculadoraTeste\obj\Debug\net8.0\refint\calculadoraTeste.dll
+C:\Users\SENAI3EM\source\repos\calculadoraTeste\calculadoraTeste\obj\Debug\net8.0\calculadoraTeste.pdb
+C:\Users\SENAI3EM\source\repos\calculadoraTeste\calculadoraTeste\obj\Debug\net8.0\ref\calculadoraTeste.dll
